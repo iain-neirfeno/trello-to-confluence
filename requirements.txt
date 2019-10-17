@@ -1,0 +1,4 @@
+atlassian-python-api
+py-trello
+pystache
+pyinstaller
